@@ -2,8 +2,11 @@
 
 **Nama Mahasiswa**:Amelia Mumtazah Karimah  
 **NRP**: 5025201128
+---
 **Judul TA**: Sentiment Analysis of Public Figure News using Tree-based Algorithm
+---
 **Dosen Pembimbing**: Dra. Ratih Nur Esti Anggraini, S.Kom., M.Sc., Ph.D.
+---
 **Dosen Ko-pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc.
 
 ---
