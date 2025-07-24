@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**:Amelia Mumtazah Karimah  
+**NRP**: 5025201128
+**Judul TA**: Sentiment Analysis of Public Figure News using Tree-based Algorithm
+**Dosen Pembimbing**: Dra. Ratih Nur Esti Anggraini, S.Kom., M.Sc., Ph.D.
+**Dosen Ko-pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc.
 
 ---
 
@@ -71,5 +71,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: 5025201128@student.its.ac.id
+- Pembimbing Utama: ratih@its.ac.id
